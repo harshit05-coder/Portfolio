@@ -7,7 +7,7 @@ const projectData = [
     url: "https://mern-ecommerce-1-frontend.onrender.com/",
     title: "UrbanBay: E-Commerce",
     description:
-      "A React application that fetches and displays GitHub user profiles and repositories, showcasing user details",
+      "A React application that feature-rich e-commerce platform with dedicated sections for Men, Women, and Kids, offering cart functionality for seamless shopping. Includes a secure Admin Dashboard to manage products, offers, and inventory.",
     technologies: [
       "HTML",
       "CSS",
@@ -23,7 +23,7 @@ const projectData = [
     url: "https://sortingvisual1.netlify.app/",
     title: "Shorting Visualizer",
     description:
-      "Streamlined CRUD operations by implementing an intuitive and user-friendly interface.",
+      "An interactive tool to visualize sorting algorithms like Bubble Sort, Merge Sort, Quick Sort, and Insertion Sort. Features include real-time animations, adjustable array size, and customizable sorting speed.",
     technologies: ["HTML", "CSS", "JavaScript"],
   },
 ];
